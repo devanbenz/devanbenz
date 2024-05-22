@@ -4,4 +4,4 @@
 
 💻 Things I do
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,rust,go,nestjs,nextjs,activitypub,java,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,rust,go,activitypub,java)](https://skillicons.dev)
